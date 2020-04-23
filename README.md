@@ -1,1 +1,1 @@
-# Music-generation
+# Music generation
