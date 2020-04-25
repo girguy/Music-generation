@@ -11,6 +11,7 @@ This project needs the following libraries:
 ## Todo
 -  OPTIMIZE HYPE-PARAMETERS
 - Attention mechanism 
+- Evaluation of models / evaluation metrics
 
 ## Runnings
 
