@@ -308,7 +308,7 @@ if __name__ == "__main__":
     window_size = 32 # [32, 64, 100] => last to test
     dropout_rate = 0.3 # [0, 0.2, 0.4, 0.8] => second to test
     batch_size = 256  # [128, 256, 512, 1024] => third to test
-    epochs = 64
+    epochs = 1
     which = 1
     
     size_lstm = [64, 128, 256, 512] # first to test
